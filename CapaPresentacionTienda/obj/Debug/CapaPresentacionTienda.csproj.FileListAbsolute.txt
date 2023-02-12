@@ -51,6 +51,8 @@ C:\Users\maner\source\repos\CursoMVC\CapaPresentacionTienda\bin\roslyn\vbc.rsp
 C:\Users\maner\source\repos\CursoMVC\CapaPresentacionTienda\bin\roslyn\VBCSCompiler.exe
 C:\Users\maner\source\repos\CursoMVC\CapaPresentacionTienda\bin\roslyn\VBCSCompiler.exe.config
 C:\Users\maner\source\repos\CursoMVC\CapaPresentacionTienda\bin\Antlr3.Runtime.dll
+C:\Users\maner\source\repos\CursoMVC\CapaPresentacionTienda\bin\CapaEntidad.dll
+C:\Users\maner\source\repos\CursoMVC\CapaPresentacionTienda\bin\CapaNegocio.dll
 C:\Users\maner\source\repos\CursoMVC\CapaPresentacionTienda\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
 C:\Users\maner\source\repos\CursoMVC\CapaPresentacionTienda\bin\Microsoft.Web.Infrastructure.dll
 C:\Users\maner\source\repos\CursoMVC\CapaPresentacionTienda\bin\Newtonsoft.Json.dll
@@ -62,6 +64,9 @@ C:\Users\maner\source\repos\CursoMVC\CapaPresentacionTienda\bin\System.Web.WebPa
 C:\Users\maner\source\repos\CursoMVC\CapaPresentacionTienda\bin\System.Web.WebPages.dll
 C:\Users\maner\source\repos\CursoMVC\CapaPresentacionTienda\bin\System.Web.WebPages.Razor.dll
 C:\Users\maner\source\repos\CursoMVC\CapaPresentacionTienda\bin\WebGrease.dll
+C:\Users\maner\source\repos\CursoMVC\CapaPresentacionTienda\bin\CapaDatos.dll
+C:\Users\maner\source\repos\CursoMVC\CapaPresentacionTienda\bin\CapaEntidad.pdb
+C:\Users\maner\source\repos\CursoMVC\CapaPresentacionTienda\bin\CapaNegocio.pdb
 C:\Users\maner\source\repos\CursoMVC\CapaPresentacionTienda\bin\System.Web.Helpers.xml
 C:\Users\maner\source\repos\CursoMVC\CapaPresentacionTienda\bin\System.Web.Mvc.xml
 C:\Users\maner\source\repos\CursoMVC\CapaPresentacionTienda\bin\System.Web.Optimization.xml
@@ -72,6 +77,7 @@ C:\Users\maner\source\repos\CursoMVC\CapaPresentacionTienda\bin\System.Web.WebPa
 C:\Users\maner\source\repos\CursoMVC\CapaPresentacionTienda\bin\Newtonsoft.Json.xml
 C:\Users\maner\source\repos\CursoMVC\CapaPresentacionTienda\bin\Antlr3.Runtime.pdb
 C:\Users\maner\source\repos\CursoMVC\CapaPresentacionTienda\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\maner\source\repos\CursoMVC\CapaPresentacionTienda\bin\CapaDatos.pdb
 C:\Users\maner\source\repos\CursoMVC\CapaPresentacionTienda\obj\Debug\CapaPresentacionTienda.csproj.AssemblyReference.cache
 C:\Users\maner\source\repos\CursoMVC\CapaPresentacionTienda\obj\Debug\CapaPresentacionTienda.csproj.CoreCompileInputs.cache
 C:\Users\maner\source\repos\CursoMVC\CapaPresentacionTienda\obj\Debug\CapaPresentacionTienda.csproj.CopyComplete
